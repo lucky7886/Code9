@@ -1,0 +1,18 @@
+rat, ais, air, art, ars, ash, hit, his, hat, has, tar, its, sir, sit, sat, 
+Total Number of 3-letter Meaningful Words are: 15
+
+airs, rats, rash, hats, shah, hath, sari, hash, tars, arts, star, this, tsar, hits, stir, hair, 
+Total Number of 4-letter Meaningful Words are: 16
+
+saith, hairs, astir, harsh, shirt, trash, stair, tarsi, sitar, 
+Total Number of 5-letter Meaningful Words are: 9
+
+thrash, 
+Total Number of 6-letter Meaningful Words are: 1
+
+
+Total Number of 7-letter Meaningful Words are: 0
+
+
+
+Total Number of Meaningful Words are: 41
