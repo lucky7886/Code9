@@ -12,6 +12,8 @@ git checkout master // switch to "main" branch
 
 4. git push origin Oranges // push Oranges to remote
 
+5. git merge master // optional merge master with Oranges (for merge conflicts safety)
+
 5. git checkout master // 
 
 6. git merge Oranges // merge Oranges with master
