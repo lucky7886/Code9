@@ -10,4 +10,8 @@ git add --a //
 
 git commit -m "message" //
 
+git merge Oranges // merger Oranges with master
+
 git push origin Oranges // push the branch to master
+
+git branch -d Oranges // Delete Oranges branch
