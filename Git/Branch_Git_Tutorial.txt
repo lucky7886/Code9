@@ -1,0 +1,13 @@
+git checkout -b Oranges  // create a new branch
+
+git status // check if any updates are available
+
+git checkout master // switch to "main" branch
+
+git checkout Oranges // switch to "Oranges" branch
+
+git add --a //
+
+git commit -m "message" //
+
+git push origin Oranges // push the branch to master
