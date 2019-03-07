@@ -3,15 +3,19 @@ git checkout -b Oranges  // create a new branch
 git status // check if any updates are available
 
 git checkout master // switch to "main" branch
+---------- After adding/updating, follow these
+1. git checkout Oranges // switch to "Oranges" branch
 
-git checkout Oranges // switch to "Oranges" branch
+2. git add --a //
 
-git add --a //
+3. git commit -m "message" //
 
-git commit -m "message" //
+4. git push origin Oranges // push Oranges to remote
 
-git merge Oranges // merger Oranges with master
+5. git checkout master // 
 
-git push origin Oranges // push the branch to master
+6. git merge Oranges // merge Oranges with master
 
-git branch -d Oranges // Delete Oranges branch
+7. git push origin master // push master to remote
+
+8. git branch -d Oranges // Delete Oranges branch
